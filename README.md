@@ -1,6 +1,6 @@
 # How to run this app:
 
- **Run** `yarn install` **or delete the** `yarn.lock` **file and run** `npm install` **to install the necessary dependencies.**
+ **Run** `yarn install` **OR delete the** `yarn.lock` **file and run** `npm install` **to install the necessary dependencies.**
 
 ### There are 3 endpoints:
 
